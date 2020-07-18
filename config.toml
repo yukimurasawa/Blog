@@ -1,7 +1,7 @@
 baseURL = "https://blog.y2.com/"
 languageCode = "ja"
 theme = "tale-hugo-master"
-title = "Y2ブログ"
+title = "Niki Ramblings"
 
 [params]
 description = "The blog of yukimurasawa, programmer of web, apps, infra, etc..."
