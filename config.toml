@@ -1,6 +1,6 @@
 baseURL = "https://blog.y2.com/"
 languageCode = "ja"
-theme = "tale"
+theme = "tale-hugo-master"
 title = "Y2ブログ"
 
 [params]
