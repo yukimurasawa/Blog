@@ -1,3 +1,12 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://blog.y2.com/"
+languageCode = "ja"
+theme = "tale"
+title = "Y2ブログ"
+
+[params]
+description = "The blog of yukimurasawa, programmer of web, apps, infra, etc..."
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
