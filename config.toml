@@ -1,4 +1,4 @@
-baseURL = "https://blog.y2.com/"
+baseURL = "https://blog-y2.netlify.app/"
 languageCode = "ja"
 theme = "tale-hugo-master"
 title = "Niki Ramblings"
